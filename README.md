@@ -1,4 +1,3 @@
-[![Header](https://i.gifer.com/4JU.gif](https://t.me/evildivais)
 <h1 align="center">Hi 你好 Cześć Hola Salut Привет 👋 , меня зовут Дмитрий</h1>
 <h3 align="center">Тут собрана скромная коллекция моих проектов 😉</h3>
 
@@ -6,9 +5,9 @@
  
 📕 &nbsp;**Мои рыботы**
 - [Создание "социальной сети](https://github.com/DivaisEvil/hw05_final)
-- [Cоздания логики работы "фитнес браслета](https://github.com/DivaisEvil/hw_python_oop)
-- [Создания фото фильтра](https://github.com/DivaisEvil/Monro)
-- [телеграмм бота секундомер](https://github.com/DivaisEvil/seconds_timer)
+- [Cоздание логики работы "фитнес браслета](https://github.com/DivaisEvil/hw_python_oop)
+- [Создание фото фильтра](https://github.com/DivaisEvil/Monro)
+- [телеграмм бот секундомер](https://github.com/DivaisEvil/seconds_timer)
 
 <b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b>
 
