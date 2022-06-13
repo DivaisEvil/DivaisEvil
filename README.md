@@ -1,4 +1,4 @@
-[![Header](https://i.gifer.com/4JU.gif](https://t.me/evildivais)
+
 <h1 align="center">Hi 你好 Cześć Hola Salut Привет 👋 , меня зовут Дмитрий</h1>
 <h3 align="center">Тут собрана скромная коллекция моих проектов 😉</h3>
 
